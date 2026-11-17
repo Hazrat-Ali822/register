@@ -130,4 +130,3 @@ dist
 .DS_Store
 *.js
 .gitignore
-config.bat
